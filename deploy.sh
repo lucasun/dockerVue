@@ -10,4 +10,7 @@ docker run -p 9999:80 -d --name dockerVue dockervue:$image_version;
 # -v ~/docker-data/house-web/appsettings.json:/app/appsettings.json -v ~/docker-data/house-web/NLogFile/:/app/NLogFile   --restart=always
 docker logs dockervue;
 #删除build过程中产生的镜像    #docker image prune -a -f
+#docker login -u $username -p $password
+#docker tag dockervue:$image_version lucasun/dockervue:$image_version
+#docker push
 docker rmi $(docker images -f "dangling=true" -q)
