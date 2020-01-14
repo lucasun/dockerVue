@@ -15,3 +15,15 @@ docker logs dockervue;
 #docker tag dockervue:$image_version lucasun/dockervue:$image_version
 #docker push lucasun/dockervue:$image_version
 docker rmi $(docker images -f "dangling=true" -q)
+# jenkins构建脚本
+# #! /bin/sh
+# cd /root/webapp
+# tar -xvf webapp.tar
+# image_version=`date +%Y%m%d%H%M`;
+# echo $image_version;
+# docker stop dockerVue;
+# docker rm dockerVue;
+# docker build -t dockervue:$image_version .;
+# docker images;
+# docker run -p 80:80 -d --name dockerVue dockervue:$image_version;
+# docker image prune -a -f
