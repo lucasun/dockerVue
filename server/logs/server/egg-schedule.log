@@ -1,0 +1,36 @@
+2020-01-19 15:13:26,803 INFO 96032 [Timer] /Users/sunchao/Documents/workspace/myself/dockerVue/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 47793203ms at 2020-01-20 04:30:00.006
+2020-01-19 15:13:26,803 INFO 96032 [Timer] /Users/sunchao/Documents/workspace/myself/dockerVue/server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 31593197ms at 2020-01-20 00:00:00.000
+2020-01-19 15:13:26,804 INFO 96032 [Timer] /Users/sunchao/Documents/workspace/myself/dockerVue/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 31594197ms at 2020-01-20 00:00:01.001
+2020-01-19 15:13:26,660 INFO 96033 [egg-schedule]: register schedule /Users/sunchao/Documents/workspace/myself/dockerVue/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-01-19 15:13:26,660 INFO 96033 [egg-schedule]: register schedule /Users/sunchao/Documents/workspace/myself/dockerVue/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-01-19 15:13:26,660 INFO 96033 [egg-schedule]: register schedule /Users/sunchao/Documents/workspace/myself/dockerVue/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-01-19 15:44:38,132 INFO 97969 [egg-schedule]: register schedule /Users/sunchao/Documents/workspace/myself/dockerVue/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-01-19 15:44:38,132 INFO 97969 [egg-schedule]: register schedule /Users/sunchao/Documents/workspace/myself/dockerVue/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-01-19 15:44:38,132 INFO 97969 [egg-schedule]: register schedule /Users/sunchao/Documents/workspace/myself/dockerVue/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-01-19 15:44:41,030 INFO 97972 [egg-schedule]: register schedule /Users/sunchao/Documents/workspace/myself/dockerVue/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-01-19 15:44:41,030 INFO 97972 [egg-schedule]: register schedule /Users/sunchao/Documents/workspace/myself/dockerVue/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-01-19 15:44:41,030 INFO 97972 [egg-schedule]: register schedule /Users/sunchao/Documents/workspace/myself/dockerVue/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-01-19 15:46:08,309 INFO 98152 [Timer] /Users/sunchao/Documents/workspace/myself/dockerVue/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 45831696ms at 2020-01-20 04:30:00.005
+2020-01-19 15:46:08,310 INFO 98152 [Timer] /Users/sunchao/Documents/workspace/myself/dockerVue/server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 29631691ms at 2020-01-20 00:00:00.001
+2020-01-19 15:46:08,310 INFO 98152 [Timer] /Users/sunchao/Documents/workspace/myself/dockerVue/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 29632690ms at 2020-01-20 00:00:01.000
+2020-01-19 15:46:08,123 INFO 98154 [egg-schedule]: register schedule /Users/sunchao/Documents/workspace/myself/dockerVue/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-01-19 15:46:08,123 INFO 98154 [egg-schedule]: register schedule /Users/sunchao/Documents/workspace/myself/dockerVue/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-01-19 15:46:08,124 INFO 98154 [egg-schedule]: register schedule /Users/sunchao/Documents/workspace/myself/dockerVue/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-01-19 15:54:39,763 INFO 98654 [egg-schedule]: register schedule /Users/sunchao/Documents/workspace/myself/dockerVue/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-01-19 15:54:39,763 INFO 98654 [egg-schedule]: register schedule /Users/sunchao/Documents/workspace/myself/dockerVue/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-01-19 15:54:39,763 INFO 98654 [egg-schedule]: register schedule /Users/sunchao/Documents/workspace/myself/dockerVue/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-01-19 15:56:35,308 INFO 98809 [Timer] /Users/sunchao/Documents/workspace/myself/dockerVue/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 45204699ms at 2020-01-20 04:30:00.007
+2020-01-19 15:56:35,308 INFO 98809 [Timer] /Users/sunchao/Documents/workspace/myself/dockerVue/server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 29004692ms at 2020-01-20 00:00:00.000
+2020-01-19 15:56:35,308 INFO 98809 [Timer] /Users/sunchao/Documents/workspace/myself/dockerVue/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 29005692ms at 2020-01-20 00:00:01.000
+2020-01-19 15:56:35,157 INFO 98810 [egg-schedule]: register schedule /Users/sunchao/Documents/workspace/myself/dockerVue/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-01-19 15:56:35,157 INFO 98810 [egg-schedule]: register schedule /Users/sunchao/Documents/workspace/myself/dockerVue/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-01-19 15:56:35,157 INFO 98810 [egg-schedule]: register schedule /Users/sunchao/Documents/workspace/myself/dockerVue/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-01-19 16:00:35,450 INFO 99037 [egg-schedule]: register schedule /Users/sunchao/Documents/workspace/myself/dockerVue/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-01-19 16:00:35,450 INFO 99037 [egg-schedule]: register schedule /Users/sunchao/Documents/workspace/myself/dockerVue/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-01-19 16:00:35,450 INFO 99037 [egg-schedule]: register schedule /Users/sunchao/Documents/workspace/myself/dockerVue/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-01-19 17:00:20,099 INFO 3018 [Timer] /Users/sunchao/Documents/workspace/myself/dockerVue/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 41379906ms at 2020-01-20 04:30:00.005
+2020-01-19 17:00:20,099 INFO 3018 [Timer] /Users/sunchao/Documents/workspace/myself/dockerVue/server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 25179901ms at 2020-01-20 00:00:00.000
+2020-01-19 17:00:20,100 INFO 3018 [Timer] /Users/sunchao/Documents/workspace/myself/dockerVue/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 25180901ms at 2020-01-20 00:00:01.001
+2020-01-19 17:00:19,972 INFO 3020 [egg-schedule]: register schedule /Users/sunchao/Documents/workspace/myself/dockerVue/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-01-19 17:00:19,972 INFO 3020 [egg-schedule]: register schedule /Users/sunchao/Documents/workspace/myself/dockerVue/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-01-19 17:00:19,972 INFO 3020 [egg-schedule]: register schedule /Users/sunchao/Documents/workspace/myself/dockerVue/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
