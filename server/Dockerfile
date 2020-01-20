@@ -3,7 +3,7 @@ FROM node:13.6.0-alpine
 # 拷贝项目文件进行构建
 WORKDIR /app/server
 COPY package.json ./
-RUN yarn install --production
+RUN npm install --production
 
 #拷贝项目文件
 COPY . .
