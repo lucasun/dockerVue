@@ -2,24 +2,24 @@ version: "3"
 
 ### nginx #################
 nginx:                
-build:              
-  context: ./config/nginx
-ports:       
-  -  80:80
-volumes:            # 挂载文件夹，配置我们可以写在宿主机，然后挂载进去
-  - ./logs/nginx:/var/log/nginx
-restart: always     # 服务挂了的时候始终自动重启
-depends_on:         # 定义容器启动顺序 附带容器间的依赖关系
-  - nodejs
+  build:              
+    context: ./config/nginx
+  ports:       
+    -  80:80
+  volumes:            # 挂载文件夹，配置我们可以写在宿主机，然后挂载进去
+    - ./logs/nginx:/var/log/nginx 
+  restart: always     # 服务挂了的时候始终自动重启
+  depends_on:         # 定义容器启动顺序 附带容器间的依赖关系
+    - nodejs
 
 ### node ##############
 nodejs:
-build:
-  context: ./config/node   # 构建 node 目录
-ports:
-  - 127.0.0.1:7001:7001    # 映射 7001
-volumes:
-  - ./server:/app/server    # 项目文件映射
-restart: always
-depends_on:
+  build:
+    context: ./config/node   # 构建 node 目录
+  ports:
+    - 127.0.0.1:7001:7001    # 映射 7001
+  volumes:
+    - ./server: /app/server # 项目文件映射
+  restart: always
+  depends_on:
 networks:
