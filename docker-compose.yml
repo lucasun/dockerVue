@@ -19,5 +19,5 @@ services:
     ports:
       - 127.0.0.1:7001:7001    # 映射 7001
     volumes:
-      - ./server: /app/server # 项目文件映射
+      - ./server:/app/server # 项目文件映射
     restart: always
