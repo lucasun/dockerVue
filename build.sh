@@ -1,6 +1,6 @@
 #! /bin/sh
 git pull --rebase origin master
-yarn install
+yarn install --registry=https://registry.npm.taobao.org
 yarn build
 rm -rf webapp.tar
 rm -rf server/app/public/*
